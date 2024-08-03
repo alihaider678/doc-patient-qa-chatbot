@@ -1,0 +1,23 @@
+{
+    "patient_illness": "anxious and stressed, trouble sleeping, racing heart, exhaustion",
+    "diagnosis": "Generalized Anxiety Disorder (GAD)",
+    "medication": {
+      "name": "Sertraline",
+      "type": "SSRI",
+      "description": "This should help manage your anxiety symptoms. It's important to take it as prescribed and be patient, as it may take a few weeks to see the full effects.",
+      "duration": "a few weeks"
+    },
+    "therapy": {
+      "name": "Cognitive-behavioral therapy (CBT)",
+      "description": "This type of therapy can help you identify and change negative thought patterns and behaviors."
+    },
+    "exercises": [
+      "Regular physical exercise: Aim for at least 30 minutes of moderate exercise, like walking or yoga, most days of the week.",
+      "Mindfulness or meditation: Practicing mindfulness or meditation daily can help reduce stress. There are many apps and online resources that can guide you through these practices."
+    ],
+    "precautions": [
+      "Avoid caffeine and alcohol as they can worsen anxiety symptoms.",
+      "Make sure to get enough sleep, and try to maintain a regular sleep schedule."
+    ]
+  }
+  
